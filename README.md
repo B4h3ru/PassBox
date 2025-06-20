@@ -6,7 +6,8 @@
 #Many people has password managing problem - i have this problem with me , that's why to built this app 
 #Anyone can use this app to manage owen password securly;
 
-#security issue
+#As you know there some security issue
+
 #To solve the security issue 
  - the password is encrypted to store and decrypted to show the password 
  - to Open the app you must verify by device password or fingureprint
