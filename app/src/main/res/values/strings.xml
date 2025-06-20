@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PassBox</string>
+    <string name="title_setting">Sttings</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
