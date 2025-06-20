@@ -7,7 +7,7 @@
 #Anyone can use this app to manage owen password securly;
 
 #security issue
-#To solve the security issue 
- # - the password is encrypted to store and decrypted to show the password 
- # - to Open the app you must verify by device password or fingureprint
- # - you can export all password list in text format and store you owen scured place 
+To solve the security issue 
+ - the password is encrypted to store and decrypted to show the password 
+ - to Open the app you must verify by device password or fingureprint
+ - you can export all password list in text format and store you owen scured place 
