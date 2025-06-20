@@ -1,7 +1,7 @@
 
 PassBox is local storage password manager android app  
 It used to store your password in your device 
-built using java and SQLite database to store the password and other information.
+and i built this app using java and SQLite database to store the password and other account information locally.
 
 Many people has password managing problem - i have this problem with me ,  n that's why to built this app 
 Any one can use this app to manage owen password securly;
